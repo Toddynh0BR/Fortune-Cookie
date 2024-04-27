@@ -9,7 +9,7 @@
 ## About
 Fortune Cookie is a basic website where users receive a virtual fortune cookie. Upon clicking to open the cookie, they receive an inspiring message to brighten their day.
 
-https://toddynh0br.github.io/Biscoito-da-Sorte-jogo/
+https://toddynh0br.github.io/Fortune-Cookie/
 
 
 ## Overview
