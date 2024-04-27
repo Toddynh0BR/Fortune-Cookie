@@ -4,7 +4,7 @@
 
 
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Toddynh0BR/Biscoito-da-Sorte-jogo/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Toddynh0BR/Fortune-Cookie/blob/main/LICENSE) 
 
 ## About
 Fortune Cookie is a basic website where users receive a virtual fortune cookie. Upon clicking to open the cookie, they receive an inspiring message to brighten their day.
